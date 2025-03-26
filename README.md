@@ -5,7 +5,7 @@
 ### 🚀 About Me:
 🔭 Currently working/studying at Ho Chi Minh city university of technology
 
-📚 Learning/working with TechWiz
+📚 Learning/working with TechWiz, GameDev Club - HCMUT
 
 💬 Ask me about...
 
