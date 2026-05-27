@@ -1,17 +1,3 @@
-### Hi there! I'm [Dinhhhiuu] 👋
-
----
-
-### 🚀 About Me:
-🔭 Currently working/studying at Ho Chi Minh city university of technology
-
-📚 Learning/working with TechWiz, GameDev Club - HCMUT
-
----
-
-### 📊 GitHub Stats:
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinhhhiuu&show_icons=true&theme=dark&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhhiuu&layout=compact&theme=dark&hide_border=true) -->
-<p align="left">
-  <img src="https://github.com/dinhhhiuu/GithubLanguage-Stats/blob/main/data/dinhhhiuu.svg" width="300"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=The+world+is+constantly+changing.;Keep+trying+every+day."/>
 </p>
